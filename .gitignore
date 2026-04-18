@@ -45,3 +45,11 @@ htmlcov/
 .idea/
 *.swp
 *~
+
+# Modelos pesados
+models/stage3_bert/
+models/stage3_distilbert/
+*.bin
+*.safetensors
+*.pt
+*.pth
